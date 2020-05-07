@@ -1,2 +1,2 @@
-# Ideas_Interview
+# Pairing
 Would contain problem and solution for interviews
